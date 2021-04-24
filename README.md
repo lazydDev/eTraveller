@@ -1,16 +1,26 @@
-# travel_1
+# eTraveller
 
-A new Flutter project.
+This is an hybrid os software that is all about the best thigs to do in Uttarakhand
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Here are some screenshots of the app.
 
-A few resources to get you started if this is your first Flutter project:
+### ScreenShots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The first One : Find the place you want to visit :
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](s1.png)
+
+The Second One : Some top Destinations and Exclusive Hotels :
+
+![](s2.png)
+
+
+The Third One : Detailed Image of your desired Destination and Famous Activities in Uttarakhand :
+
+![](s3.png)
+
+Thats all for this app.
+
+Thank You.
